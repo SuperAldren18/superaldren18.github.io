@@ -2,4 +2,8 @@
 Aldren John A. Euste
 ### Welcome to my Personal Website
 
-These are some of my architectural renders from the past year.
+I am very intersete in hobbies related to architecture and engineering, especially creating designs, renders, and projects.
+
+Here are some of them
+
+
