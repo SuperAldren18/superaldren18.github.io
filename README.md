@@ -1,6 +1,6 @@
 # St. Dominic of Guzman Parish
 
-<img src="https://www.facebook.com/photo/?fbid=401614298793982&set=a.401614275460651" width="100" height="100" />
+<img src="https://www.facebook.com/photo/?fbid=401614298793982&set=a.401614275460651" width="150" height="150" />
 
 ## 157th Foundation Anniversary
 
