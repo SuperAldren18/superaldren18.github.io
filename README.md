@@ -2,7 +2,7 @@
 Aldren John A. Euste
 ### Welcome to my Personal Website
 
-I am very intersete in hobbies related to architecture and engineering, especially creating designs, renders, and projects.
+I am very interseted in hobbies related to architecture and engineering, especially creating designs, renders, and projects on structures and architecture in general.
 
 ## Here are some of them
 
