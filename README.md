@@ -1,6 +1,6 @@
 # St. Dominic of Guzman Parish
 
-![Official Seal of Gainza](https://upload.wikimedia.org/wikipedia/en/8/89/Gainza_Camarines_Sur.png =100x100)
+<img src="https://www.facebook.com/photo/?fbid=401614298793982&set=a.401614275460651" width="100" height="100" />
 
 ## 157th Foundation Anniversary
 
