@@ -4,7 +4,7 @@
 ## 157th Foundation Anniversary
 
 <a href="https://imgur.com/Wel1m65"><img src="https://i.imgur.com/Wel1m65.jpg" title="source: imgur.com" /></a>
-Preserving faith and tradition since 1863
+**Preserving faith and tradition since 1863**
 
 ### Short History of the Parish and Gainza
 
@@ -20,3 +20,9 @@ The St. Dominic of Guzman Parish covers the Gainza area specifically the 1st and
 
 ## Calendar and Activities
 
+Schedule of masses
+PST (Pacific Standard Time)
+5:00 AM
+6:00 AM
+7:00 AM
+8:00 AM
