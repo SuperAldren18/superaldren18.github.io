@@ -1,9 +1,11 @@
 # St. Dominic of Guzman Parish
-<img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/276250443_480339136972893_3432377761004847866_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9zFOochmlKsAX8YiaK4&_nc_ht=scontent.fwnp1-1.fna&oh=00_AfBkNOcZZ6u_K4JgcUWM_jh3k0u9IRRQF-uPxLkMz23Cvg&oe=659C835E" width="150" height="150" /> <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/276250443_480339136972893_3432377761004847866_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9zFOochmlKsAX8YiaK4&_nc_ht=scontent.fwnp1-1.fna&oh=00_AfBkNOcZZ6u_K4JgcUWM_jh3k0u9IRRQF-uPxLkMz23Cvg&oe=659C835E](https://upload.wikimedia.org/wikipedia/en/8/89/Gainza_Camarines_Sur.png)](https://upload.wikimedia.org/wikipedia/en/8/89/Gainza_Camarines_Sur.png" width="150" height="150" /> 
+<img src="" width="150" height="150" /> 
+<img src="" width="150" height="150" /> 
 
 ## 157th Foundation Anniversary
 
-<a href="https://imgur.com/Wel1m65"><img src="https://i.imgur.com/Wel1m65.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Wel1m65"><img src="https://i.imgur.com/Wel1m65.jpg" title="source: imgur.com" width="500" /></a>
+
 **Preserving faith and tradition since 1863**
 
 ### Short History of the Parish and Gainza
@@ -20,9 +22,9 @@ The St. Dominic of Guzman Parish covers the Gainza area specifically the 1st and
 
 ## Calendar and Activities
 
-Schedule of masses
-PST (Pacific Standard Time)
-5:00 AM
-6:00 AM
-7:00 AM
-8:00 AM
+**Schedule of masses**
+|Sundays|Regular|
+|-------|-------|
+|5:00 AM|6:00 AM|
+|8:00 AM|5:00 PM|
+|5:00 PM|       |
