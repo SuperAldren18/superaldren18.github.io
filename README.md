@@ -3,7 +3,8 @@
 
 ## 157th Foundation Anniversary
 
-Standing strong since 1863
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gainza_Church%2C_Camarines_Sur%2C_June_2021.jpg/1280px-Gainza_Church%2C_Camarines_Sur%2C_June_2021.jpg" width="250" height="200"/>
+Preserving faith and tradition since 1863
 
 ### Short History of the Parish and Gainza
 
@@ -12,6 +13,7 @@ On December 10, 1863, the Bishop gave the village of Sto. Domingo its Ecclesiast
 It was named after the late bishop of Nueva Caceres, Francisco Gainza of the Dominican Order. He selected the barrio Sto. Domingo for the construction of a canal or passageway originally planned by two Franciscan Friars and by Governor Norzagaray as early as the first half of the 17th Century.
 
 ### Territorial Jurisdiction 
+
 
 
 
