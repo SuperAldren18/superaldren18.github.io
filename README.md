@@ -3,7 +3,7 @@
 
 ## 157th Foundation Anniversary
 
-<img src="<a href="https://imgur.com/Wel1m65"><img src="https://i.imgur.com/Wel1m65.jpg" title="source: imgur.com" /></a>" width="250" height="200"/>
+<a href="https://imgur.com/Wel1m65"><img src="https://i.imgur.com/Wel1m65.jpg" title="source: imgur.com" /></a>" 
 Preserving faith and tradition since 1863
 
 ### Short History of the Parish and Gainza
