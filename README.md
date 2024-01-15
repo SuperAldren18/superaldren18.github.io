@@ -1,6 +1,5 @@
 # St. Dominic of Guzman Parish
-<img src="" width="150" height="150" /> 
-<img src="" width="150" height="150" /> 
+<img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/276250443_480339136972893_3432377761004847866_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=fJJXUS67x4gAX-HcDK3&_nc_ht=scontent.fwnp1-1.fna&oh=00_AfCfb53KC2UdgSMFdhk1Xto0yGK_4wJvE_DZ_9qkpM0JHQ&oe=65AA5B1E" width="150" height="150" /> <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.6435-9/119644348_817377842134658_960805004099968515_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=be3454&_nc_ohc=Jxk4O4lpYDsAX-2It3l&_nc_ht=scontent.fwnp1-1.fna&oh=00_AfCRKvP6Ga20vBCjUIxbja4n4UHuNkKhgp0iO_OVpad2lA&oe=65CC7846" width="150" height="150" /> 
 
 ## 157th Foundation Anniversary
 
