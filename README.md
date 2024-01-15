@@ -3,7 +3,7 @@
 
 ## 157th Foundation Anniversary
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Gainza_Church%2C_Camarines_Sur%2C_June_2021.jpg/1280px-Gainza_Church%2C_Camarines_Sur%2C_June_2021.jpg" width="250" height="200"/>
+<img src="https://imgur.com/Wel1m65" width="250" height="200"/>
 Preserving faith and tradition since 1863
 
 ### Short History of the Parish and Gainza
