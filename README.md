@@ -14,8 +14,7 @@ It was named after the late bishop of Nueva Caceres, Francisco Gainza of the Dom
 
 ### Territorial Jurisdiction 
 
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Ph_locator_camarines_sur_gainza.png" width="200" height="120" />
 
 
 
