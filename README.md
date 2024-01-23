@@ -1,4 +1,4 @@
-# St. Dominic of Guzman Parish <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t39.30808-6/276250443_480339136972893_3432377761004847866_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=fJJXUS67x4gAX-HcDK3&_nc_ht=scontent.fwnp1-1.fna&oh=00_AfCfb53KC2UdgSMFdhk1Xto0yGK_4wJvE_DZ_9qkpM0JHQ&oe=65AA5B1E" width="100" height="100" /> 
+# St. Dominic of Guzman Parish <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga5fXXrYO9VgzRjAjy6WCIYSgQ8gm_nocFl7y0Il6HjszIN5OkXi6UwcUOSxc70qgPBCTFvXzBthB6PhmzXIGj3p3mqFvlG9YH9dXbDIu5n0OxXU0RRuoaY5wf7S-wlJKpGqXAPrMJGxvQ_RKYI6EGUiiDTdK3StL4Vf4ajgW4HutENY2uNXOPA0haqw/s500/Saint%20Dominic%20of%20Guzman%20Parish%20-%20Gainza,%20Camarines%20Sur%20-%20Logo.jpg" width="100" height="100" /> 
 <img src="https://scontent.fwnp1-1.fna.fbcdn.net/v/t1.6435-9/119644348_817377842134658_960805004099968515_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=be3454&_nc_ohc=Jxk4O4lpYDsAX-2It3l&_nc_ht=scontent.fwnp1-1.fna&oh=00_AfCRKvP6Ga20vBCjUIxbja4n4UHuNkKhgp0iO_OVpad2lA&oe=65CC7846" width="150" height="150" /> 
 
 ## 157th Foundation Anniversary
@@ -23,6 +23,8 @@ It was named after the late bishop of Nueva Caceres, Francisco Gainza of the Dom
 
 ### Organizational Structure of the Parish
 
+
+
 ### Territorial Jurisdiction 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Ph_locator_camarines_sur_gainza.png" width="400" />
@@ -45,3 +47,11 @@ The municipality the parish covers are the following:
 |5:00 AM - Bicol|6:00 AM - Bicol|
 |8:00 AM - Bicol|5:00 PM - Bicol|
 |5:00 PM - Bicol|       |
+
+Monday - None
+Tuesday - None
+Wednesday - 6:00 PM
+Thursday - 6:00 PM
+Friday - 6:00 PM
+Saturday - 7:00 AM
+Sunday - 6:00 AM, 8:00 AM, 10:00 AM, 5:00 PM
