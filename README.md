@@ -13,6 +13,16 @@ On December 10, 1863, the Bishop gave the village of Sto. Domingo its Ecclesiast
 
 It was named after the late bishop of Nueva Caceres, Francisco Gainza of the Dominican Order. He selected the barrio Sto. Domingo for the construction of a canal or passageway originally planned by two Franciscan Friars and by Governor Norzagaray as early as the first half of the 17th Century.
 
+### Past and Present Parish Priests and Parochial Vicars
+
+|Rev. Fr. Domingo|Rev. Fr.|Rev. Fr.|
+|---|---|---|
+|2018 - Present|2014 - 2018|2010 - 2014|
+
+### Different Organizations Attached to the Parish
+
+### Organizational Structure of the Parish
+
 ### Territorial Jurisdiction 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Ph_locator_camarines_sur_gainza.png" width="400" />
@@ -30,7 +40,7 @@ The municipality the parish covers are the following:
 ## Calendar and Activities
 
 **Schedule of masses**
-|Sundays|Regular (Monday to Saturday)|
+|Sundays|Mondays to Saturdays|
 |-------|-------|
 |5:00 AM - Bicol|6:00 AM - Bicol|
 |8:00 AM - Bicol|5:00 PM - Bicol|
