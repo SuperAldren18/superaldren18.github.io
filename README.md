@@ -39,7 +39,7 @@ The municipality the parish covers are the following:
 - District I
 - District II
 
-## Calendar and Activities
+### Calendar and Activities
 
 **Schedule of masses**
 |Sundays|Mondays to Saturdays|
@@ -55,3 +55,9 @@ Thursday - 6:00 PM
 Friday - 6:00 PM
 Saturday - 7:00 AM
 Sunday - 6:00 AM, 8:00 AM, 10:00 AM, 5:00 PM
+
+### Personal Photo Gallery of the Parish
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijr5SeckIu8kIqndNEDsBpNdQnR0jHt6oDxkxh0gZ6V5O67kqTNWThoKsQT4x5CLUhXqBsLHaZL3eGHPlJngaY7Nm1EtDa3A375Kg9f9Dr1rkrzvWLIVEHelLO-rZPDBx2KHLhK9sKdvg8k8hY5c0K3TyAg1c1_wsE6pWxWkBOpuboxtTyo_qPVqfLIA/s1984/Saint%20Dominic%20of%20Guzman%20Parish%20-%20Gainza,%20Camarines%20Sur%20-%20Altar.jpg" width="200" />
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtoUEl53fu2iB0RzfOdtD21ei660Pi1XLxq4KIhc0tOpiygKCv9VsQj8pkaXU0vMubk1lzdiWniM6JtYZunkm3F5Lk891gbFPDhn6wZnbg801U6YaAhYbMHL1QpRfRdwVyPEO1udcrjWveBc3XMtqPybH-xK0-g4tho7-tEZljAJJ4boYC58gpxqLXRg/s1984/Saint%20Dominic%20of%20Guzman%20Parish%20-%20Gainza,%20Camarines%20Sur.jpg" width="200" />
